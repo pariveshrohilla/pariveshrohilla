@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=""https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Serif&size=40&letterSpacing=-0.25rem&pause=1000&color=ED3AFF&background=0E1CFF&center=true&vCenter=true&random=false&width=1500&height=100&lines=Hlw;It's+Me+Parivesh+;Nice+To+Meet+You+" alt="Typing SVG" /">
+<img src="http://readme-typing-svg.herokuapp.com?font=Serif&size=40&letterSpacing=-0.25rem&pause=1000&color=ED3AFF&background=0E1CFF&center=true&vCenter=true&random=false&width=1500&height=100&lines=Hlw;It's+Me+Parivesh+;Nice+To+Meet+You+" alt="Typing SVG" /">
 </h1>
 
 
@@ -17,7 +17,6 @@
 
 📫 How to reach me **pari040105@gmail.com**
 <br>
-⚡ Fun fact ****
 <br>
 
 </div>
@@ -30,7 +29,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 <a href="https://www.blogger.com/u/1/blog/posts/9082990081727020646" target="_blank">
-   <img src="https://img.shields.io/badge/Blogger-8A2BE2" target="_blank" />
+   <img src="https://img.shields.io/badge/Blogger-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" " target="_blank" />
 
 </a>
 </div>
@@ -50,12 +49,12 @@
 <br/>
 <hr/>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Parivesh415&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br>
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Parivesh415&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Parivesh415&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
