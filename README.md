@@ -33,7 +33,7 @@
 
 </a>
 </div>
-<div style="display: flex; justify-content: center;">
+<div style="display:flex;justify-content:center;">
    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 
 </div>
