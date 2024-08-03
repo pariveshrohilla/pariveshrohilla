@@ -79,6 +79,12 @@
   <a href="https://open.spotify.com/">
     <img src="https://images.inc.com/uploaded_files/image/1920x1080/getty_626660256_2000108620009280158_388846.jpg" width="570" height="271" alt="Spotify">
   </a>
+
+  <h3>This is what i am currently listening to </h3>
+   <a href="https://open.spotify.com/track/62IAQRWBe8XPVo35sQNMz4">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737938ce04e41528ae0b923f17" width="570" height="271" alt="Spotify">
+   </a>
+   
 </div>
 
 
