@@ -82,8 +82,8 @@
   </a>
 
   <h3>This is what i am currently listening to </h3>
-   <a href="https://open.spotify.com/track/62IAQRWBe8XPVo35sQNMz4">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737938ce04e41528ae0b923f17" width="370" height="271" alt="Spotify">
+   <a href="https://open.spotify.com/track/7cWnks0lsRtpAi87COOiXK?si=2b00367044164118">
+    <img src="https://www.wallpaperflare.com/static/327/21/210/music-musical-notes-heart-simple-background-wallpaper.jpg" width="370" height="271" alt="Spotify">
    </a>
    
 </div>
