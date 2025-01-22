@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/parivesh-rohilla-a02a2a2a7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
-<a href="https://www.pariveshrohilla.blogspot.com" target="_blank">
+<a href="pariveshrohilla.blogspot.com" target="_blank">
    <img src="https://img.shields.io/badge/Blogger-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" />
 </a>
 <a href="https://x.com/PariveshRohilla" target="_blank">
