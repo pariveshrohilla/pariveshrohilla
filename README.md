@@ -57,18 +57,18 @@
 <hr/>
 <div>
   <p>Snake🐍</p>
-  <src=https://raw.githubusercontent.com/Parivesh415/Parivesh415/output/github-contribution-grid-snake-dark.svg>
+  <src=https://raw.githubusercontent.com/pariveshrohilla/pariveshrohilla/output/github-contribution-grid-snake-dark.svg>
 </div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Parivesh415&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pariveshrohilla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br>
-<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Parivesh415&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pariveshrohilla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Parivesh415&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pariveshrohilla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -97,34 +97,34 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Parivesh415/ilu" title="I love You">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parivesh415&repo=ilu&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Parivesh415/Hover" title="Data Structures">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parivesh415&repo=Hover&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/pariveshrohilla/ilu" title="I love You">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pariveshrohilla&repo=ilu&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/pariveshrohilla/Hover" title="Data Structures">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pariveshrohilla&repo=Hover&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Parivesh415/SearchBar" title="SearchBar">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parivesh415&repo=SearchBar&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Parivesh415/Heart" title="Heart">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parivesh415&repo=Heart&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/pariveshrohilla/SearchBar" title="SearchBar">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pariveshrohilla&repo=SearchBar&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/pariveshrohilla/Heart" title="Heart">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pariveshrohilla&repo=Heart&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Parivesh415/Chess" title="Chess">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parivesh415&repo=Chess&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Parivesh415/Amazon-Clone" title="Amazon-Clone">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Parivesh415&repo=Amazon-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/pariveshrohilla/Chess" title="Chess">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pariveshrohilla&repo=Chess&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/pariveshrohilla/Amazon-Clone" title="Amazon-Clone">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pariveshrohilla&repo=Amazon-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/Parivesh415?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/pariveshrohilla?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/Parivesh415/count.svg" />
+<img src="https://profile-counter.glitch.me/pariveshrohilla/count.svg" />
