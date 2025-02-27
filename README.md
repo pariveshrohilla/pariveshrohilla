@@ -28,9 +28,6 @@
 <a href="https://www.linkedin.com/in/parivesh-rohilla-a02a2a2a7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
-<a href="http://www.pariveshrohilla.blogspot.com" target="_blank">
-   <img src="https://img.shields.io/badge/Blogger-8A2BE2?style=for-the-badge&logoColor=white"  target="_blank" />
-</a>
 <a href="https://x.com/PariveshRohilla" target="_blank">
    <img src="https://img.shields.io/badge/Twitter(X)-black"  target="_blank" />
 </a>
@@ -50,15 +47,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,flutter,gcp,java,matlab,mysql,py,aws,bash,c,linux,mysql,netlify,twitter,,,,ubuntu,github,gmail,discord,bootstrap,html,css,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=gcp,java,matlab,mysql,py,bash,c,linux,mysql,netlify,twitter,ubuntu,github,gmail,discord,html,css,vscode,github,git" />
 </div>
 
 <br/>
 <hr/>
-<div>
-  <p>Snake🐍</p>
-  <src=https://raw.githubusercontent.com/pariveshrohilla/pariveshrohilla/output/github-contribution-grid-snake-dark.svg>
-</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
