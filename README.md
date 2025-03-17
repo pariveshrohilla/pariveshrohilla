@@ -79,8 +79,9 @@
   </a>
 
   <h3>This is what i am currently listening to </h3>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ucCkztTZVEVLftyvgVe3C?utm_source=generator" width="100%" height="352"></iframe>
-</a>
+     <a href="https://open.spotify.com/track/6ucCkztTZVEVLftyvgVe3C?si=f32d94abf9b94ba6">
+    <img src="https://www.wallpaperflare.com/static/327/21/210/music-musical-notes-heart-simple-background-wallpaper.jpg" width="370" height="271" alt="Spotify">
+   </a>
    
 </div>
 
