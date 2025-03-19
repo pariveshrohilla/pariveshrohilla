@@ -12,7 +12,7 @@
 🔭 I’m currently working On Virtual Internships For Web Development and Python Development.
 <br>
 
-🌱 I’m currently learning **Machine Learning,Java,And Also hoe to Enjoy Life Alone..........**
+🌱 I’m currently learning **Machine Learning,Java,And Also how to Enjoy Life Alone..........**
 <br>
 
 📫 How to reach me **pari040105@gmail.com**
