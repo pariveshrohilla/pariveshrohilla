@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🔭 I’m currently working On Virtual Internships For Web Development and Python Development.
+🔭 I’m currently working On Self to improve some more languages
 <br>
 
 🌱 I’m currently learning **Machine Learning,Java,And Also how to Enjoy Life Alone..........**
