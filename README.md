@@ -92,5 +92,7 @@
 
 
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/pariveshrohilla/count.svg" />
+## Visitor count
+<a href="https://github.com/pariveshrohilla/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pariveshrohilla&style=for-the-badge&color=blue">
+</a>
