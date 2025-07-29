@@ -68,6 +68,11 @@
 
 <hr/>
 
+## 🏆 GitHub Trophies:
+<div align="center">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=pariveshrohilla&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+<br/>
 
 <br/>
 
