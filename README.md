@@ -58,13 +58,18 @@
 <br>
 <div align=center>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pariveshrohilla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br>
+  
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pariveshrohilla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/>
+<br>
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pariveshrohilla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
+
+## Activity Graph:
+<div align="center" >
+  <img  width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pariveshrohilla&bg_color=09131B&color=ff652f&line=FFE400&point=ff652f&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
 <hr/>
 
@@ -84,8 +89,11 @@
   </a>
 
   <h3>This is what i am currently listening to </h3>
+
+  
   Either go to Spotify or apple music and relax 
-     <a href="https://music.apple.com/in/album/kinaare/1767823803?i=1767823916&ls">
+
+  <a href="https://music.apple.com/in/album/kinaare/1767823803?i=1767823916&ls">
     <img src="https://www.wallpaperflare.com/static/327/21/210/music-musical-notes-heart-simple-background-wallpaper.jpg" width="370" height="271" alt="Spotify">
    </a>
    
