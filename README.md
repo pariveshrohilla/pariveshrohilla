@@ -9,11 +9,13 @@
 
 <div align="center">
 
-🔭 I’m currently working On Self to improve some more languages
+🔭 I’m currently working On Self to improve some more languages like Go , FLutter ......
 <br>
 
 🌱 I’m currently learning **Machine Learning,Java,And Also how to Enjoy Life Alone..........**
 <br>
+
+Currently Working in Gssoc 2025 , GirlScript Summer of Code 
 
 📫 How to reach me **pari040105@gmail.com**
 <br>
