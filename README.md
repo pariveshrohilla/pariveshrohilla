@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🔭 I’m currently working On Self to improve some more languages like Go , FLutter ......
+🔭 I’m currently working On Self to improve some more languages like Go , FLutter , Machine learning......
 <br>
 
 🌱 I’m currently learning **Machine Learning,Java,And Also how to Enjoy Life Alone..........**
