@@ -86,7 +86,7 @@ Currently Working in Gssoc 2025 , GirlScript Summer of Code
 <div align="center">
   <H2>Song🎶</H2>
   <h2>Mood Off why not check this and come back here when you fresh </h2>
-  <a href="https://open.spotify.com/">
+  <a href="https://music.apple.com/in/album/kabhi-paas-aao/1801494324?i=1801494391&ls">
     <img src="https://images.inc.com/uploaded_files/image/1920x1080/getty_626660256_2000108620009280158_388846.jpg" width="570" height="271" alt="Spotify">
   </a>
 
