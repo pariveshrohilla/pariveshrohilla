@@ -73,15 +73,9 @@ Currently Working in Gssoc 2025 , GirlScript Summer of Code
   <img  width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pariveshrohilla&bg_color=09131B&color=ff652f&line=FFE400&point=ff652f&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<hr/>
 
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=pariveshrohilla&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-<br/>
 
-<br/>
+
 
 <div align="center">
   <H2>Song🎶</H2>
@@ -96,13 +90,13 @@ Currently Working in Gssoc 2025 , GirlScript Summer of Code
   Either go to Spotify or apple music and relax 
 
   <a href="https://music.apple.com/in/album/kinaare/1767823803?i=1767823916&ls">
-    <img src="https://www.wallpaperflare.com/static/327/21/210/music-musical-notes-heart-simple-background-wallpaper.jpg" width="370" height="271" alt="Spotify">
+    <img src= https://github.com/user-attachments/assets/5a62a312-0052-4d49-8cea-6ada6c669e57  width="325" height="271" alt="Spotify">
    </a>
    
 </div>
 
 <h4 align="center">
-  <a href="https://github.com/pariveshrohilla?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/pariveshrohilla?tab=repositories" title="Show Repositories">🔎Wanna check out more Repo ,  Show More 🔍</a>
 </h4>
 
 
