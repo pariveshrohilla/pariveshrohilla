@@ -77,24 +77,6 @@ Currently Working in Gssoc 2025 , GirlScript Summer of Code
 
 
 
-<div align="center">
-  <H2>Song🎶</H2>
-  <h2>Mood Off why not check this and come back here when you fresh </h2>
-  <a href="https://music.apple.com/in/album/kabhi-paas-aao/1801494324?i=1801494391&ls">
-    <img src="https://images.inc.com/uploaded_files/image/1920x1080/getty_626660256_2000108620009280158_388846.jpg" width="570" height="271" alt="Spotify">
-  </a>
-
-  <h3>This is what i am currently listening to </h3>
-
-  
-  Either go to Spotify or apple music and relax 
-
-  <a href="https://music.apple.com/in/album/kinaare/1767823803?i=1767823916&ls">
-    <img src= https://github.com/user-attachments/assets/5a62a312-0052-4d49-8cea-6ada6c669e57  width="325" height="271" alt="Spotify">
-   </a>
-   
-</div>
-
 <h4 align="center">
   <a href="https://github.com/pariveshrohilla?tab=repositories" title="Show Repositories">🔎Wanna check out more Repo ,  Show More 🔍</a>
 </h4>
