@@ -12,10 +12,7 @@
 🔭 I’m currently working On Self to improve some more languages like Go , FLutter , Machine learning......
 <br>
 
-🌱 I’m currently learning **Machine Learning,Java,And Also how to Enjoy Life Alone..........**
-<br>
-
-Currently Working in Gssoc 2025 , GirlScript Summer of Code 
+🌱 I’m currently learning **Machine Learning,Java , DSA..........**
 
 📫 How to reach me **pari040105@gmail.com**
 <br>
@@ -23,7 +20,11 @@ Currently Working in Gssoc 2025 , GirlScript Summer of Code
 
 </div>
 
+<h2 alignn = "center" > Social </h2>
+
 <div align="center"> 
+  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-%23A4405A.svg?logo=LeetCode&logoColor=Black)](https://leetcode.com/u/PariveshRohilla/)
 <a href="mailto:pari040105@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
@@ -36,8 +37,7 @@ Currently Working in Gssoc 2025 , GirlScript Summer of Code
 <a href="https://www.frontendmentor.io/profile/pariveshrohilla" target="_blank">
    <img src="https://img.shields.io/badge/Frontend%20Mentor-0000FF?style=for-the-badge&logoColor=white"  target="_blank" />
 </a>
-
-  
+<Br>
 </div>
 <div align="center">
    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
